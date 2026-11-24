@@ -221,3 +221,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# PyTest
+.pytest_cache/
+
+# Reports
+allure-results/
+allure-report/
+reports/
+
+# Screenshots and traces
+screenshots/
+test-results/
+playwright-report/
+
+# Environment variables
+.env
+
+# IDE
+.idea/

@@ -1,0 +1,46 @@
+Phase 5 — Login automation
+
+Negative login tests, parametrization, reusable assertions.
+In progress
+
+
+
+Phase 6 — Framework architecture
+
+External test data, configuration management, environment variables, POM for products/cart/checkout.
+
+
+
+Phase 7 — Advanced Playwright
+
+Multiple browsers, parallel execution, screenshots, traces, retries, logging, Allure reports.
+
+
+
+Phase 8 — GitHub Actions CI/CD
+
+Automatically execute tests when code is pushed or a pull request is created.
+
+
+
+Phase 9 — Cloud execution
+
+Run automation on cloud-hosted runners; understand AWS infrastructure and cloud browser execution.
+
+
+
+Phase 10 — Secure credentials
+
+GitHub Secrets first, then AWS Secrets Manager as an advanced exercise.
+
+
+
+Phase 11 — API automation
+
+Integrate DummyJSON API testing with our Playwright/Pytest framework.
+
+
+
+Phase 12 — Product-company readiness
+
+End-to-end regression, reporting, code review, documentation and interview preparation
